@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b35cc47-da1d-4afb-9d7b-50401305b0e8" name="Default Changelist" comment="" />
+    <list default="true" id="9b35cc47-da1d-4afb-9d7b-50401305b0e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ServiceApi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ServiceApi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +18,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -132,6 +143,8 @@
       <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
       <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
       <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/laravel-validation-rules/country-codes" />
+      <path value="$PROJECT_DIR$/vendor/league/iso3166" />
     </include_path>
   </component>
   <component name="ProjectId" id="1n92NX68wrW9bw7q4nHZm7FGq14" />
@@ -142,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Clients" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FBimport" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -176,7 +189,22 @@
       <workItem from="1610877871904" duration="882000" />
       <workItem from="1610880007874" duration="1635000" />
       <workItem from="1610882496779" duration="1705000" />
-      <workItem from="1610888179312" duration="323000" />
+      <workItem from="1610888179312" duration="1607000" />
+      <workItem from="1610890097668" duration="1848000" />
+      <workItem from="1610892029930" duration="1737000" />
+      <workItem from="1610893980451" duration="1191000" />
+      <workItem from="1610895816149" duration="1741000" />
+      <workItem from="1610897637968" duration="850000" />
+      <workItem from="1610961527722" duration="1637000" />
+      <workItem from="1610963465229" duration="1770000" />
+      <workItem from="1610965332628" duration="1736000" />
+      <workItem from="1610967330299" duration="1449000" />
+      <workItem from="1610969385092" duration="1724000" />
+      <workItem from="1610971788118" duration="1728000" />
+      <workItem from="1610973593897" duration="1728000" />
+      <workItem from="1610975441092" duration="1728000" />
+      <workItem from="1610977319944" duration="1339000" />
+      <workItem from="1610990768277" duration="2050000" />
     </task>
     <servers />
   </component>
@@ -184,13 +212,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1610876193148">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1610966933123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610876193148" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610966933123" />
     <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1610814971314">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="97" width="585" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1610814971314" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1610891125105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1610891125105" />
   </component>
 </project>

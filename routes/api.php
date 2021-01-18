@@ -1,6 +1,7 @@
 <?php
 
 
+use App\Http\Controllers\PhoneBooksController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -15,6 +16,24 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::middleware('auth:api')->get('address', function (Request $request) {
+Route::middleware('auth:api')->get('/phone_books', [
+    PhoneBooksController::class,'index'
+]);
 
-});
+Route::middleware('auth:api')->post('/phone_book', [
+    PhoneBooksController::class,'store'
+]);
+
+Route::middleware('auth:api')->get('/phone_books/{id}', [
+    PhoneBooksController::class,'show'
+]);
+
+Route::middleware('auth:api')->put('/phone_books/{id}', [
+    PhoneBooksController::class,'update'
+]);
+
+Route::middleware('auth:api')->delete('/phone_books/{id}', [
+    PhoneBooksController::class,'destroy'
+]);
+
+
