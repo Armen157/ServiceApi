@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b35cc47-da1d-4afb-9d7b-50401305b0e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ServiceApi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ServiceApi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Passport/Client.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Passport/Client.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +151,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FBimport" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Clients" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -205,6 +201,15 @@
       <workItem from="1610975441092" duration="1728000" />
       <workItem from="1610977319944" duration="1339000" />
       <workItem from="1610990768277" duration="2050000" />
+      <workItem from="1611043982133" duration="1686000" />
+      <workItem from="1611047842467" duration="130000" />
+      <workItem from="1611055899120" duration="1103000" />
+      <workItem from="1611060308304" duration="1521000" />
+      <workItem from="1611062254159" duration="1773000" />
+      <workItem from="1611064359410" duration="5142000" />
+      <workItem from="1611073035218" duration="1729000" />
+      <workItem from="1611074865594" duration="2178000" />
+      <workItem from="1611077268252" duration="1751000" />
     </task>
     <servers />
   </component>
@@ -212,14 +217,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1610966933123">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1611060461469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610966933123" />
-    <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1610814971314">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611060461469" />
+    <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1611074746499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="97" width="585" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1610814971314" />
+    <state x="390" y="97" width="585" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1611074746499" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1610891125105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

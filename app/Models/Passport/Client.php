@@ -11,6 +11,7 @@ class Client extends BaseClient
     /**
      * @return bool
      */
+    //override
     public function skipsAuthorization()
     {
         return TRUE;
